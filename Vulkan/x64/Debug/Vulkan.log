@@ -1,0 +1,17 @@
+﻿  Application.cpp
+  Debug.cpp
+  Renderer.cpp
+C:\Users\tbellancourt\source\repos\Vulkan\Vulkan\Renderer.cpp(39,24): error C2039: 'assign_range' n'est pas membre de 'std::vector<const char *,std::allocator<const char *>>'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\vector(459,7):
+      voir la déclaration de 'std::vector<const char *,std::allocator<const char *>>'
+  
+C:\Users\tbellancourt\source\repos\Vulkan\Vulkan\Renderer.cpp(81,24): error C2039: 'append_range' n'est pas membre de 'std::vector<const char *,std::allocator<const char *>>'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\vector(459,7):
+      voir la déclaration de 'std::vector<const char *,std::allocator<const char *>>'
+  
+C:\Users\tbellancourt\source\repos\Vulkan\Vulkan\Renderer.cpp(96,23): error C2039: 'append_range' n'est pas membre de 'std::vector<const char *,std::allocator<const char *>>'
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\vector(459,7):
+      voir la déclaration de 'std::vector<const char *,std::allocator<const char *>>'
+  
+  Vulkan.cpp
+  Génération de code en cours...
