@@ -8,7 +8,7 @@ Rendu d'un cube texturé en rotation avec Vulkan 1.4, C++20 et vulkan_raii.
 - Texture (stb_image)
 - Uniform buffer (model / view / proj)
 - 2 frames in flight
-- Recréation de la swapchain au redimensionnement
+- Swapchain
 
 ## Dépendances
 
