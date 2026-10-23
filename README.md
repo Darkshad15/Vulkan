@@ -3,9 +3,9 @@
 Rendu d'un cube texturé en rotation avec Vulkan 1.4, C++20 et vulkan_raii.
 
 ## Fonctionnalités
-- Dynamic rendering et synchronization2
+- Dynamic rendering
 - Depth buffer
-- Texture avec sampler anisotrope (stb_image)
+- Texture (stb_image)
 - Uniform buffer (model / view / proj)
 - 2 frames in flight
 - Recréation de la swapchain au redimensionnement
@@ -14,7 +14,6 @@ Rendu d'un cube texturé en rotation avec Vulkan 1.4, C++20 et vulkan_raii.
 
 - Vulkan SDK 
 - GLFW
-- GLM
 - stb_image
 - Slang (compilation du shader)
 
